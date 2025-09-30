@@ -13,4 +13,4 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
-1. Charles - selerqc
+1. Jimwel A. Bautista - jimzy-alt
